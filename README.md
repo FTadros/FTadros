@@ -1,4 +1,4 @@
-### Hi 👋😁, I'm Felo
+### Hi, 👋😁 I'm Felo
 
 
 - 🔭 I’m currently working on WesternFlow, a website for UWO students to help in their academic planning.
