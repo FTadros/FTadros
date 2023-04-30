@@ -4,7 +4,10 @@
 - 🔭 I’m currently working on WesternFlow, a website for UWO students to help in their academic planning.
 - 🌱 I’m currently learning about web development and serverless architechture.
 - 🤔 If im not at school or work, you'll find me reading making coffee!
-- 📚 Currently Reading: _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming.
+- 📚 Currently Reading: 
+  - _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming.
+  - _Designing Data-Intensive Applications_, by Martin Kleppmann.
+  - _Python for Data Analysis_, by Wes McKinney.
 - 📫 Best way to reach me: felotadros326@gmail.com
 
 
