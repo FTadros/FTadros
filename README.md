@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on WesternFlow, a website for UWO students to help in their academic planning.
-- 🌱 I’m currently learning about web development and serverless architechture.
-- 🤔 If im not at school or work, you'll find me reading making coffee!
+- 🌱 I’m currently learning about operating systems and system design.
+- 🤔 If im not at school or work, you'll find me reading or making coffee!
 - 📚 Currently Reading: 
   - _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming.
   - _Designing Data-Intensive Applications_, by Martin Kleppmann.
