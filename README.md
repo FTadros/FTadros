@@ -1,7 +1,7 @@
 ### Hi, 👋😁 I'm Felo
 
 
-- 🔭 I’m currently working on WesternFlow, a website for UWO students to help in their academic planning.
+ <!--- 🔭 I’m currently working on WesternFlow, a website for UWO students to help in their academic planning.  -->
 - 🌱 I’m currently learning about operating systems and system design.
 - 🤔 If I'm not at school or work, you'll find me reading or making coffee!
 - 📚 Currently Reading: 
