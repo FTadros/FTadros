@@ -7,7 +7,6 @@
 - 📚 Currently Reading: 
   - _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming.
   - _Designing Data-Intensive Applications_, by Martin Kleppmann.
-  - _Python for Data Analysis_, by Wes McKinney.
 - 📫 Best way to reach me: felotadros326@gmail.com.
 
 # 💻 Tech Stack:
