@@ -2,7 +2,7 @@
 
 
  <!--- 🔭 I’m currently working on WesternFlow, a website for UWO students to help in their academic planning.  -->
-- 🌱 I’m currently learning about operating systems and system design.
+- 🌱 I’m currently learning about machine learning and system design.
 - 🤔 If I'm not at school or work, you'll find me reading or making coffee!
 - 📚 Currently Reading: 
   - _The Art of Doing Science and Engineering: Learning to Learn_, by Richard W. Hamming.
