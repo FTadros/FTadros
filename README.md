@@ -1,5 +1,6 @@
-### Hi, 👋😁 I'm Felo
 
+### $whoami
+#### Hi, 👋😁 I'm Felo
 
  <!--- 🔭 I’m currently working on WesternFlow, a website for UWO students to help in their academic planning.  -->
 - 🌱 I’m currently learning about machine learning and system design.
