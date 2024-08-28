@@ -1,4 +1,4 @@
-# `$ whoami`
+# $whoami
 ## Hi, 👋😁 I'm Felo
 - 🌱 I’m currently learning about distributed computing, system design, and financial mathematics!
 - 🤔 If I'm not at school/work, you'll find me perfecting my coffee 👨‍🔬☕, or in the heart of Toronto doing street photography 📷🏙.
