@@ -1,7 +1,7 @@
 ```sh
 ftadros@ftadros:~/$ whoami
 ```
-## Hi, 👋😁 Im Felo
+## Hi, 👋😁 I'm Felo
 - 🌱 Im currently learning about distributed computing, system design, and financial mathematics!
 - 🤔 If Im not at school/work, youll find me perfecting my coffee 👨‍🔬☕, or in the heart of Toronto doing street photography 📷🏙.
 - 📚 Currently Reading:
