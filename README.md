@@ -3,7 +3,7 @@ ftadros@ftadros:~/$ whoami
 ```
 ## Hi, 👋😁 I'm Felo
 - 🌱 Im currently learning about distributed computing, system design, and reinforcement learning!
-- 🤔 If Im not at school/work, youll find me perfecting my espresso extraction 👨‍🔬☕, or in the heart of taking photos 📷🏙.
+- 🤔 If Im not at school/work, youll find me perfecting my espresso extraction 👨‍🔬☕, or in the heart of Toronto taking photos 📷🏙.
 - 📚 Currently Reading:
   - _Reinforcement Learning An Introduction_, by Sutton and Barto.
 - 📫 Best way to reach me: felotadros326 [at] gmail.com.
